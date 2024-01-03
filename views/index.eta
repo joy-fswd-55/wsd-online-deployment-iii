@@ -1,0 +1,11 @@
+<!-- views/index.eta -->
+<html>
+  <head>
+    <title>Chat App</title>
+  </head>
+  <body>
+    <h1>Welcome to the Chat App</h1>
+    <p>This is a simple chat application.</p>
+    <a href="/chat">Go to Chat</a>
+  </body>
+</html>
